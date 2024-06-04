@@ -1,0 +1,6 @@
+Commands:
+
+1. setup Eas Credentials using CLI: eas credentials
+2. npx expo prebuild --clean
+3. npx expo run:android
+4. eas build --profile development --platform android
